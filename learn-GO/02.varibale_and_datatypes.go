@@ -12,8 +12,6 @@ func main(){
 	fmt.Println(age)
 
 
-	
-
 	// Float Data Type
 	var salary1 float32
 	var salary2 float64
@@ -25,12 +23,10 @@ func main(){
 	fmt.Println(salary2)
 
 
-
 	// String Data Type
 	var message string
 	message = "Welcome, welcome to new journey"
 	fmt.Println(message)
-
 
 
 	// Boolean Data Type
