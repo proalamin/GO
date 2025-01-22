@@ -11,6 +11,7 @@ import (
 1. create a package folder in same directory
 2. create a mod file
 	command -> go mod init example.com
+3. import the package in main package file
 
 */
 
