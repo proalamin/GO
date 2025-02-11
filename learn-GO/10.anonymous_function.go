@@ -20,6 +20,14 @@ func main() {
 	func(a, b int) {
 		fmt.Println(a + b)
 	}(5, 7) //immediately invoked(call) this function
+
+	// function expression
+	sum := func(x, y int) {
+		fmt.Println((x + y))
+	}
+
+	sum(2, 3)
+
 }
 
 func init() {
